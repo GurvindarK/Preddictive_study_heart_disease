@@ -14,6 +14,6 @@
 <br/> Chest pain type 4 is more common in patients with heart disease.
 <br/> The number of vessels detected tends to increase with age.
 <br/> Different types of chest pain are associated with different maximum heart rate responses.
-<b /> Blood pressure tends to increase with age.
+<br/> Blood pressure tends to increase with age.
 
 
