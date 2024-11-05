@@ -8,12 +8,12 @@
 > This study implements 3 classification models:: Logistic Regression, Decision Tree and Random Forest.
  
 ### : Patterns found in study (NOTE:: More investigation or statistical analysis required)
-> Male are more prone to heart disease than female. (data for male candidates were more than the female candidate, needs further investigation.) 
->  Chest pain 3 and 4 more common in above 50.
-> Risk of heart disease increases with age.
-> Chest apin type 4 is more common in patients with heart disease.
-> the number of vessels detected tends to increase with age.
-> different types of chest pain are associated with different maximum heart rate responses.
-> blood pressure tends to increase with age.
+<br/> Male are more prone to heart disease than female. (data for male candidates were more than the female candidate, needs further investigation.) 
+<br/> Chest pain 3 and 4 more common in above 50.
+<br/> Risk of heart disease increases with age.
+<br/> Chest apin type 4 is more common in patients with heart disease.
+<br/> the number of vessels detected tends to increase with age.
+<br/> different types of chest pain are associated with different maximum heart rate responses.
+<b /> blood pressure tends to increase with age.
 
 
